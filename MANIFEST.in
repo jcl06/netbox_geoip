@@ -1,0 +1,3 @@
+include netbox_geoip/templates/netbox_geoip/*
+include netbox_geoip/data/*
+

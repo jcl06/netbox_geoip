@@ -1,0 +1,1444 @@
+subdivision_code,name,country
+AG-10,Barbuda,4
+AG-11,Redonda,4
+AG-03,Saint George,4
+AG-04,Saint John,4
+AG-05,Saint Mary,4
+AG-06,Saint Paul,4
+AG-07,Saint Peter,4
+AG-08,Saint Philip,4
+AU-ACT,Australian Capital Territory,14
+AU-NT,Northern Territory,14
+AU-NSW,New South Wales,14
+AU-QLD,Queensland,14
+AU-SA,South Australia,14
+AU-TAS,Tasmania,14
+AU-VIC,Victoria,14
+AU-WA,Western Australia,14
+BB-01,Christ Church,19
+BB-02,Saint Andrew,19
+BB-03,Saint George,19
+BB-04,Saint James,19
+BB-05,Saint John,19
+BB-06,Saint Joseph,19
+BB-07,Saint Lucy,19
+BB-08,Saint Michael,19
+BB-09,Saint Peter,19
+BB-10,Saint Philip,19
+BB-11,Saint Thomas,19
+BN-BE,Belait,29
+BN-BM,Brunei-Muara,29
+BN-TE,Temburong,29
+BN-TU,Tutong,29
+BQ-BO,Bonaire,31
+BQ-SA,Saba,31
+BQ-SE,Sint Eustatius,31
+BS-AK,Acklins,33
+BS-BI,Bimini,33
+BS-BP,Black Point,33
+BS-BY,Berry Islands,33
+BS-CE,Central Eleuthera,33
+BS-CI,Cat Island,33
+BS-CK,Crooked Island and Long Cay,33
+BS-CO,Central Abaco,33
+BS-CS,Central Andros,33
+BS-EG,East Grand Bahama,33
+BS-EX,Exuma,33
+BS-FP,City of Freeport,33
+BS-GC,Grand Cay,33
+BS-HI,Harbour Island,33
+BS-HT,Hope Town,33
+BS-IN,Inagua,33
+BS-LI,Long Island,33
+BS-MC,Mangrove Cay,33
+BS-MG,Mayaguana,33
+BS-MI,Moore's Island,33
+BS-NE,North Eleuthera,33
+BS-NO,North Abaco,33
+BS-NS,North Andros,33
+BS-RC,Rum Cay,33
+BS-RI,Ragged Island,33
+BS-SA,South Andros,33
+BS-SE,South Eleuthera,33
+BS-SO,South Abaco,33
+BS-SS,San Salvador,33
+BS-SW,Spanish Wells,33
+BS-WG,West Grand Bahama,33
+BS-NP,New Providence,33
+BW-CE,Central,37
+BW-CH,Chobe,37
+BW-GH,Ghanzi,37
+BW-KG,Kgalagadi,37
+BW-KL,Kgatleng,37
+BW-KW,Kweneng,37
+BW-NE,North East,37
+BW-NW,North West,37
+BW-SE,South East,37
+BW-SO,Southern,37
+BW-JW,Jwaneng,37
+BW-LO,Lobatse,37
+BW-SP,Selibe Phikwe,37
+BW-ST,Sowa Town,37
+BW-FR,Francistown,37
+BW-GA,Gaborone,37
+BZ-BZ,Belize,39
+BZ-CY,Cayo,39
+BZ-CZL,Corozal,39
+BZ-OW,Orange Walk,39
+BZ-SC,Stann Creek,39
+BZ-TOL,Toledo,39
+CA-NT,Northwest Territories,40
+CA-NU,Nunavut,40
+CA-YT,Yukon,40
+CA-AB,Alberta,40
+CA-BC,British Columbia,40
+CA-MB,Manitoba,40
+CA-NB,New Brunswick,40
+CA-NL,Newfoundland and Labrador,40
+CA-NS,Nova Scotia,40
+CA-ON,Ontario,40
+CA-PE,Prince Edward Island,40
+CA-QC,Quebec,40
+CA-SK,Saskatchewan,40
+CM-AD,Adamaoua,49
+CM-CE,Centre,49
+CM-EN,Far North,49
+CM-ES,East,49
+CM-LT,Littoral,49
+CM-NO,North,49
+CM-NW,North-West,49
+CM-OU,West,49
+CM-SU,South,49
+CM-SW,South-West,49
+CN-HK,Hong Kong SAR (see also separate country code entry under HK),50
+CN-MO,Macao SAR (see also separate country code entry under MO),50
+DM-02,Saint Andrew,65
+DM-03,Saint David,65
+DM-04,Saint George,65
+DM-05,Saint John,65
+DM-06,Saint Joseph,65
+DM-07,Saint Luke,65
+DM-08,Saint Mark,65
+DM-09,Saint Patrick,65
+DM-10,Saint Paul,65
+DM-11,Saint Peter,65
+ET-AF,Afar,75
+ET-AM,Amara,75
+ET-BE,Benshangul-Gumaz,75
+ET-GA,Gambela Peoples,75
+ET-HA,Harari People,75
+ET-OR,Oromia,75
+ET-SI,Sidama,75
+ET-SN,"Southern Nations, Nationalities and Peoples",75
+ET-SO,Somali,75
+ET-SW,Southwest Ethiopia Peoples,75
+ET-TI,Tigrai,75
+ET-AA,Addis Ababa,75
+ET-DD,Dire Dawa,75
+FJ-R,Rotuma,77
+FJ-C,Central,77
+FJ-09,Naitasiri,77
+FJ-10,Namosi,77
+FJ-12,Rewa,77
+FJ-13,Serua,77
+FJ-14,Tailevu,77
+FJ-E,Eastern,77
+FJ-04,Kadavu,77
+FJ-05,Lau,77
+FJ-06,Lomaiviti,77
+FJ-N,Northern,77
+FJ-02,Bua,77
+FJ-03,Cakaudrove,77
+FJ-07,Macuata,77
+FJ-W,Western,77
+FJ-01,Ba,77
+FJ-08,Nadroga and Navosa,77
+FJ-11,Ra,77
+FM-KSA,Kosrae,79
+FM-PNI,Pohnpei,79
+FM-TRK,Chuuk,79
+FM-YAP,Yap,79
+GB-ENG,England,85
+GB-CAM,Cambridgeshire,85
+GB-CMA,Cumbria,85
+GB-DBY,Derbyshire,85
+GB-DEV,Devon,85
+GB-DOR,Dorset,85
+GB-ESS,Essex,85
+GB-ESX,East Sussex,85
+GB-GLS,Gloucestershire,85
+GB-HAM,Hampshire,85
+GB-HRT,Hertfordshire,85
+GB-KEN,Kent,85
+GB-LAN,Lancashire,85
+GB-LEC,Leicestershire,85
+GB-LIN,Lincolnshire,85
+GB-NFK,Norfolk,85
+GB-NTT,Nottinghamshire,85
+GB-NYK,North Yorkshire,85
+GB-OXF,Oxfordshire,85
+GB-SFK,Suffolk,85
+GB-SOM,Somerset,85
+GB-SRY,Surrey,85
+GB-STS,Staffordshire,85
+GB-WAR,Warwickshire,85
+GB-WOR,Worcestershire,85
+GB-WSX,West Sussex,85
+GB-BAS,Bath and North East Somerset,85
+GB-BBD,Blackburn with Darwen,85
+GB-BCP,"Bournemouth, Christchurch and Poole",85
+GB-BDF,Bedford,85
+GB-BKM,Buckinghamshire,85
+GB-BNH,Brighton and Hove,85
+GB-BPL,Blackpool,85
+GB-BRC,Bracknell Forest,85
+GB-BST,"Bristol, City of",85
+GB-CBF,Central Bedfordshire,85
+GB-CHE,Cheshire East,85
+GB-CHW,Cheshire West and Chester,85
+GB-CON,Cornwall,85
+GB-DAL,Darlington,85
+GB-DER,Derby,85
+GB-DUR,"Durham, County",85
+GB-ERY,East Riding of Yorkshire,85
+GB-HAL,Halton,85
+GB-HEF,Herefordshire,85
+GB-HPL,Hartlepool,85
+GB-IOS,Isles of Scilly,85
+GB-IOW,Isle of Wight,85
+GB-KHL,Kingston upon Hull,85
+GB-LCE,Leicester,85
+GB-LUT,Luton,85
+GB-MDB,Middlesbrough,85
+GB-MDW,Medway,85
+GB-MIK,Milton Keynes,85
+GB-NBL,Northumberland,85
+GB-NEL,North East Lincolnshire,85
+GB-NGM,Nottingham,85
+GB-NLN,North Lincolnshire,85
+GB-NNH,North Northamptonshire,85
+GB-NSM,North Somerset,85
+GB-PLY,Plymouth,85
+GB-POR,Portsmouth,85
+GB-PTE,Peterborough,85
+GB-RCC,Redcar and Cleveland,85
+GB-RDG,Reading,85
+GB-RUT,Rutland,85
+GB-SGC,South Gloucestershire,85
+GB-SHR,Shropshire,85
+GB-SLG,Slough,85
+GB-SOS,Southend-on-Sea,85
+GB-STE,Stoke-on-Trent,85
+GB-STH,Southampton,85
+GB-STT,Stockton-on-Tees,85
+GB-SWD,Swindon,85
+GB-TFW,Telford and Wrekin,85
+GB-THR,Thurrock,85
+GB-TOB,Torbay,85
+GB-WBK,West Berkshire,85
+GB-WIL,Wiltshire,85
+GB-WNH,West Northamptonshire,85
+GB-WNM,Windsor and Maidenhead,85
+GB-WOK,Wokingham,85
+GB-WRT,Warrington,85
+GB-YOR,York,85
+GB-BIR,Birmingham,85
+GB-BNS,Barnsley,85
+GB-BOL,Bolton,85
+GB-BRD,Bradford,85
+GB-BUR,Bury,85
+GB-CLD,Calderdale,85
+GB-COV,Coventry,85
+GB-DNC,Doncaster,85
+GB-DUD,Dudley,85
+GB-GAT,Gateshead,85
+GB-KIR,Kirklees,85
+GB-KWL,Knowsley,85
+GB-LDS,Leeds,85
+GB-LIV,Liverpool,85
+GB-MAN,Manchester,85
+GB-NET,Newcastle upon Tyne,85
+GB-NTY,North Tyneside,85
+GB-OLD,Oldham,85
+GB-RCH,Rochdale,85
+GB-ROT,Rotherham,85
+GB-SAW,Sandwell,85
+GB-SFT,Sefton,85
+GB-SHF,Sheffield,85
+GB-SHN,St. Helens,85
+GB-SKP,Stockport,85
+GB-SLF,Salford,85
+GB-SND,Sunderland,85
+GB-SOL,Solihull,85
+GB-STY,South Tyneside,85
+GB-TAM,Tameside,85
+GB-TRF,Trafford,85
+GB-WGN,Wigan,85
+GB-WKF,Wakefield,85
+GB-WLL,Walsall,85
+GB-WLV,Wolverhampton,85
+GB-WRL,Wirral,85
+GB-BDG,Barking and Dagenham,85
+GB-BEN,Brent,85
+GB-BEX,Bexley,85
+GB-BNE,Barnet,85
+GB-BRY,Bromley,85
+GB-CMD,Camden,85
+GB-CRY,Croydon,85
+GB-EAL,Ealing,85
+GB-ENF,Enfield,85
+GB-GRE,Greenwich,85
+GB-HAV,Havering,85
+GB-HCK,Hackney,85
+GB-HIL,Hillingdon,85
+GB-HMF,Hammersmith and Fulham,85
+GB-HNS,Hounslow,85
+GB-HRW,Harrow,85
+GB-HRY,Haringey,85
+GB-ISL,Islington,85
+GB-KEC,Kensington and Chelsea,85
+GB-KTT,Kingston upon Thames,85
+GB-LBH,Lambeth,85
+GB-LEW,Lewisham,85
+GB-MRT,Merton,85
+GB-NWM,Newham,85
+GB-RDB,Redbridge,85
+GB-RIC,Richmond upon Thames,85
+GB-STN,Sutton,85
+GB-SWK,Southwark,85
+GB-TWH,Tower Hamlets,85
+GB-WFT,Waltham Forest,85
+GB-WND,Wandsworth,85
+GB-WSM,Westminster,85
+GB-LND,"London, City of",85
+GB-SCT,Scotland,85
+GB-ABD,Aberdeenshire,85
+GB-ABE,Aberdeen City,85
+GB-AGB,Argyll and Bute,85
+GB-ANS,Angus,85
+GB-CLK,Clackmannanshire,85
+GB-DGY,Dumfries and Galloway,85
+GB-DND,Dundee City,85
+GB-EAY,East Ayrshire,85
+GB-EDH,"Edinburgh, City of",85
+GB-EDU,East Dunbartonshire,85
+GB-ELN,East Lothian,85
+GB-ELS,Eilean Siar,85
+GB-ERW,East Renfrewshire,85
+GB-FAL,Falkirk,85
+GB-FIF,Fife,85
+GB-GLG,Glasgow City,85
+GB-HLD,Highland,85
+GB-IVC,Inverclyde,85
+GB-MLN,Midlothian,85
+GB-MRY,Moray,85
+GB-NAY,North Ayrshire,85
+GB-NLK,North Lanarkshire,85
+GB-ORK,Orkney Islands,85
+GB-PKN,Perth and Kinross,85
+GB-RFW,Renfrewshire,85
+GB-SAY,South Ayrshire,85
+GB-SCB,Scottish Borders,85
+GB-SLK,South Lanarkshire,85
+GB-STG,Stirling,85
+GB-WDU,West Dunbartonshire,85
+GB-WLN,West Lothian,85
+GB-ZET,Shetland Islands,85
+GB-WLS,Wales [Cymru GB-CYM],85
+GB-AGY,Isle of Anglesey [Sir Ynys Môn GB-YNM],85
+GB-BGE,Bridgend [Pen-y-bont ar Ogwr GB-POG],85
+GB-BGW,Blaenau Gwent,85
+GB-CAY,Caerphilly [Caerffili GB-CAF],85
+GB-CGN,Ceredigion [Sir Ceredigion],85
+GB-CMN,Carmarthenshire [Sir Gaerfyrddin GB-GFY],85
+GB-CRF,Cardiff [Caerdydd GB-CRD],85
+GB-CWY,Conwy,85
+GB-DEN,Denbighshire [Sir Ddinbych GB-DDB],85
+GB-FLN,Flintshire [Sir y Fflint GB-FFL],85
+GB-GWN,Gwynedd,85
+GB-MON,Monmouthshire [Sir Fynwy GB-FYN],85
+GB-MTY,Merthyr Tydfil [Merthyr Tudful GB-MTU],85
+GB-NTL,Neath Port Talbot [Castell-nedd Port Talbot GB-CTL],85
+GB-NWP,Newport [Casnewydd GB-CNW],85
+GB-PEM,Pembrokeshire [Sir Benfro GB-BNF],85
+GB-POW,Powys,85
+GB-RCT,Rhondda Cynon Taff [Rhondda CynonTaf],85
+GB-SWA,Swansea [Abertawe GB-ATA],85
+GB-TOF,Torfaen [Tor-faen],85
+GB-VGL,"Vale of Glamorgan, The [Bro Morgannwg GB-BMG]",85
+GB-WRX,Wrexham [Wrecsam GB-WRC],85
+GB-NIR,Northern Ireland,85
+GB-ABC,"Armagh City, Banbridge and Craigavon",85
+GB-AND,Ards and North Down,85
+GB-ANN,Antrim and Newtownabbey,85
+GB-BFS,Belfast City,85
+GB-CCG,Causeway Coast and Glens,85
+GB-DRS,Derry and Strabane,85
+GB-FMO,Fermanagh and Omagh,85
+GB-LBC,Lisburn and Castlereagh,85
+GB-MEA,Mid and East Antrim,85
+GB-MUL,Mid-Ulster,85
+GB-NMD,"Newry, Mourne and Down",85
+GD-01,Saint Andrew,86
+GD-02,Saint David,86
+GD-03,Saint George,86
+GD-04,Saint John,86
+GD-05,Saint Mark,86
+GD-06,Saint Patrick,86
+GD-10,Southern Grenadine Islands,86
+GH-AA,Greater Accra,90
+GH-AF,Ahafo,90
+GH-AH,Ashanti,90
+GH-BE,Bono East,90
+GH-BO,Bono,90
+GH-CP,Central,90
+GH-EP,Eastern,90
+GH-NE,North East,90
+GH-NP,Northern,90
+GH-OT,Oti,90
+GH-SV,Savannah,90
+GH-TV,Volta,90
+GH-UE,Upper East,90
+GH-UW,Upper West,90
+GH-WN,Western North,90
+GH-WP,Western,90
+GM-L,Lower River,93
+GM-M,Central River,93
+GM-N,North Bank,93
+GM-U,Upper River,93
+GM-W,Western,93
+GM-B,Banjul,93
+GY-BA,Barima-Waini,102
+GY-CU,Cuyuni-Mazaruni,102
+GY-DE,Demerara-Mahaica,102
+GY-EB,East Berbice-Corentyne,102
+GY-ES,Essequibo Islands-West Demerara,102
+GY-MA,Mahaica-Berbice,102
+GY-PM,Pomeroon-Supenaam,102
+GY-PT,Potaro-Siparuni,102
+GY-UD,Upper Demerara-Berbice,102
+GY-UT,Upper Takutu-Upper Essequibo,102
+IE-C,Connaught,111
+IE-G,Galway,111
+IE-LM,Leitrim,111
+IE-MO,Mayo,111
+IE-RN,Roscommon,111
+IE-SO,Sligo,111
+IE-L,Leinster,111
+IE-CW,Carlow,111
+IE-D,Dublin,111
+IE-KE,Kildare,111
+IE-KK,Kilkenny,111
+IE-LD,Longford,111
+IE-LH,Louth,111
+IE-LS,Laois,111
+IE-MH,Meath,111
+IE-OY,Offaly,111
+IE-WH,Westmeath,111
+IE-WW,Wicklow,111
+IE-WX,Wexford,111
+IE-M,Munster,111
+IE-CE,Clare,111
+IE-CO,Cork,111
+IE-KY,Kerry,111
+IE-LK,Limerick,111
+IE-TA,Tipperary,111
+IE-WD,Waterford,111
+IE-U,Ulster,111
+IE-CN,Cavan,111
+IE-DL,Donegal,111
+IE-MN,Monaghan,111
+IN-AN,Andaman and Nicobar Islands,114
+IN-CH,Chandīgarh,114
+IN-DH,Dādra and Nagar Haveli and Damān and Diu,114
+IN-DL,Delhi,114
+IN-JK,Jammu and Kashmīr,114
+IN-LA,Ladākh,114
+IN-LD,Lakshadweep,114
+IN-PY,Puducherry,114
+IN-AP,Andhra Pradesh,114
+IN-AR,Arunāchal Pradesh,114
+IN-AS,Assam,114
+IN-BR,Bihār,114
+IN-CG,Chhattīsgarh,114
+IN-GA,Goa,114
+IN-GJ,Gujarāt,114
+IN-HP,Himāchal Pradesh,114
+IN-HR,Haryāna,114
+IN-JH,Jhārkhand,114
+IN-KA,Karnātaka,114
+IN-KL,Kerala,114
+IN-MH,Mahārāshtra,114
+IN-ML,Meghālaya,114
+IN-MN,Manipur,114
+IN-MP,Madhya Pradesh,114
+IN-MZ,Mizoram,114
+IN-NL,Nāgāland,114
+IN-OD,Odisha,114
+IN-PB,Punjab,114
+IN-RJ,Rājasthān,114
+IN-SK,Sikkim,114
+IN-TN,Tamil Nādu,114
+IN-TR,Tripura,114
+IN-TS,Telangāna,114
+IN-UK,Uttarākhand,114
+IN-UP,Uttar Pradesh,114
+IN-WB,West Bengal,114
+JM-01,Kingston,121
+JM-02,Saint Andrew,121
+JM-03,Saint Thomas,121
+JM-04,Portland,121
+JM-05,Saint Mary,121
+JM-06,Saint Ann,121
+JM-07,Trelawny,121
+JM-08,Saint James,121
+JM-09,Hanover,121
+JM-10,Westmoreland,121
+JM-11,Saint Elizabeth,121
+JM-12,Manchester,121
+JM-13,Clarendon,121
+JM-14,Saint Catherine,121
+JP-01,Hokkaido,123
+JP-07,Fukushima,123
+JP-09,Tochigi,123
+JP-12,Chiba,123
+JP-13,Tokyo,123
+JP-17,Ishikawa,123
+JP-18,Fukui,123
+JP-19,Yamanashi,123
+JP-21,Gifu,123
+JP-22,Shizuoka,123
+JP-23,Aichi,123
+JP-25,Shiga,123
+JP-26,Kyoto,123
+JP-27,Osaka,123
+JP-28,Hyogo,123
+JP-32,Shimane,123
+JP-34,Hiroshima,123
+JP-35,Yamaguchi,123
+JP-36,Tokushima,123
+JP-39,Kochi,123
+JP-40,Fukuoka,123
+JP-44,Oita,123
+JP-46,Kagoshima,123
+KE-01,Baringo,125
+KE-02,Bomet,125
+KE-03,Bungoma,125
+KE-04,Busia,125
+KE-05,Elgeyo/Marakwet,125
+KE-06,Embu,125
+KE-07,Garissa,125
+KE-08,Homa Bay,125
+KE-09,Isiolo,125
+KE-10,Kajiado,125
+KE-11,Kakamega,125
+KE-12,Kericho,125
+KE-13,Kiambu,125
+KE-14,Kilifi,125
+KE-15,Kirinyaga,125
+KE-16,Kisii,125
+KE-17,Kisumu,125
+KE-18,Kitui,125
+KE-19,Kwale,125
+KE-20,Laikipia,125
+KE-21,Lamu,125
+KE-22,Machakos,125
+KE-23,Makueni,125
+KE-24,Mandera,125
+KE-25,Marsabit,125
+KE-26,Meru,125
+KE-27,Migori,125
+KE-28,Mombasa,125
+KE-29,Murang'a,125
+KE-30,Nairobi City,125
+KE-31,Nakuru,125
+KE-32,Nandi,125
+KE-33,Narok,125
+KE-34,Nyamira,125
+KE-35,Nyandarua,125
+KE-36,Nyeri,125
+KE-37,Samburu,125
+KE-38,Siaya,125
+KE-39,Taita/Taveta,125
+KE-40,Tana River,125
+KE-41,Tharaka-Nithi,125
+KE-42,Trans Nzoia,125
+KE-43,Turkana,125
+KE-44,Uasin Gishu,125
+KE-45,Vihiga,125
+KE-46,Wajir,125
+KE-47,West Pokot,125
+KI-G,Gilbert Islands,128
+KI-L,Line Islands,128
+KI-P,Phoenix Islands,128
+KN-K,Saint Kitts,130
+KN-01,Christ Church Nichola Town,130
+KN-02,Saint Anne Sandy Point,130
+KN-03,Saint George Basseterre,130
+KN-06,Saint John Capisterre,130
+KN-08,Saint Mary Cayon,130
+KN-09,Saint Paul Capisterre,130
+KN-11,Saint Peter Basseterre,130
+KN-13,Saint Thomas Middle Island,130
+KN-15,Trinity Palmetto Point,130
+KN-N,Nevis,130
+KN-04,Saint George Gingerland,130
+KN-05,Saint James Windward,130
+KN-07,Saint John Figtree,130
+KN-10,Saint Paul Charlestown,130
+KN-12,Saint Thomas Lowland,130
+LC-01,Anse la Raye,138
+LC-02,Castries,138
+LC-03,Choiseul,138
+LC-05,Dennery,138
+LC-06,Gros Islet,138
+LC-07,Laborie,138
+LC-08,Micoud,138
+LC-10,Soufrière,138
+LC-11,Vieux Fort,138
+LC-12,Canaries,138
+LK-1,Western Province,140
+LK-11,Colombo,140
+LK-12,Gampaha,140
+LK-13,Kalutara,140
+LK-2,Central Province,140
+LK-21,Kandy,140
+LK-22,Matale,140
+LK-23,Nuwara Eliya,140
+LK-3,Southern Province,140
+LK-31,Galle,140
+LK-32,Matara,140
+LK-33,Hambantota,140
+LK-4,Northern Province,140
+LK-41,Jaffna,140
+LK-42,Kilinochchi,140
+LK-43,Mannar,140
+LK-44,Vavuniya,140
+LK-45,Mullaittivu,140
+LK-5,Eastern Province,140
+LK-51,Batticaloa,140
+LK-52,Ampara,140
+LK-53,Trincomalee,140
+LK-6,North Western Province,140
+LK-61,Kurunegala,140
+LK-62,Puttalam,140
+LK-7,North Central Province,140
+LK-71,Anuradhapura,140
+LK-72,Polonnaruwa,140
+LK-8,Uva Province,140
+LK-81,Badulla,140
+LK-82,Monaragala,140
+LK-9,Sabaragamuwa Province,140
+LK-91,Ratnapura,140
+LK-92,Kegalla,140
+LR-BG,Bong,141
+LR-BM,Bomi,141
+LR-CM,Grand Cape Mount,141
+LR-GB,Grand Bassa,141
+LR-GG,Grand Gedeh,141
+LR-GK,Grand Kru,141
+LR-GP,Gbarpolu,141
+LR-LO,Lofa,141
+LR-MG,Margibi,141
+LR-MO,Montserrado,141
+LR-MY,Maryland,141
+LR-NI,Nimba,141
+LR-RG,River Gee,141
+LR-RI,River Cess,141
+LR-SI,Sinoe,141
+LS-A,Maseru,142
+LS-B,Botha-Bothe,142
+LS-C,Leribe,142
+LS-D,Berea,142
+LS-E,Mafeteng,142
+LS-F,Mohale's Hoek,142
+LS-G,Quthing,142
+LS-H,Qacha's Nek,142
+LS-J,Mokhotlong,142
+LS-K,Thaba-Tseka,142
+MH-L,Ralik chain,153
+MH-ALL,Ailinglaplap,153
+MH-EBO,Ebon,153
+MH-ENI,Enewetak & Ujelang,153
+MH-JAB,Jabat,153
+MH-JAL,Jaluit,153
+MH-KIL,Bikini & Kili,153
+MH-KWA,Kwajalein,153
+MH-LAE,Lae,153
+MH-LIB,Lib,153
+MH-NMK,Namdrik,153
+MH-NMU,Namu,153
+MH-RON,Rongelap,153
+MH-UJA,Ujae,153
+MH-WTH,Wotho,153
+MH-T,Ratak chain,153
+MH-ALK,Ailuk,153
+MH-ARN,Arno,153
+MH-AUR,Aur,153
+MH-LIK,Likiep,153
+MH-MAJ,Majuro,153
+MH-MAL,Maloelap,153
+MH-MEJ,Mejit,153
+MH-MIL,Mili,153
+MH-UTI,Utrik,153
+MH-WTJ,Wotje,153
+MT-01,Attard,164
+MT-02,Balzan,164
+MT-03,Birgu,164
+MT-04,Birkirkara,164
+MT-05,Birżebbuġa,164
+MT-06,Bormla,164
+MT-07,Dingli,164
+MT-08,Fgura,164
+MT-09,Floriana,164
+MT-10,Fontana,164
+MT-11,Gudja,164
+MT-12,Gżira,164
+MT-13,Għajnsielem,164
+MT-14,Għarb,164
+MT-15,Għargħur,164
+MT-16,Għasri,164
+MT-17,Għaxaq,164
+MT-18,Ħamrun,164
+MT-19,Iklin,164
+MT-20,Isla,164
+MT-21,Kalkara,164
+MT-22,Kerċem,164
+MT-23,Kirkop,164
+MT-24,Lija,164
+MT-25,Luqa,164
+MT-26,Marsa,164
+MT-27,Marsaskala,164
+MT-28,Marsaxlokk,164
+MT-29,Mdina,164
+MT-30,Mellieħa,164
+MT-31,Mġarr,164
+MT-32,Mosta,164
+MT-33,Mqabba,164
+MT-34,Msida,164
+MT-35,Mtarfa,164
+MT-36,Munxar,164
+MT-37,Nadur,164
+MT-38,Naxxar,164
+MT-39,Paola,164
+MT-40,Pembroke,164
+MT-41,Pietà,164
+MT-42,Qala,164
+MT-43,Qormi,164
+MT-44,Qrendi,164
+MT-45,Rabat Gozo,164
+MT-46,Rabat Malta,164
+MT-47,Safi,164
+MT-48,Saint Julian's,164
+MT-49,Saint John,164
+MT-50,Saint Lawrence,164
+MT-51,Saint Paul's Bay,164
+MT-52,Sannat,164
+MT-53,Saint Lucia's,164
+MT-54,Santa Venera,164
+MT-55,Siġġiewi,164
+MT-56,Sliema,164
+MT-57,Swieqi,164
+MT-58,Ta' Xbiex,164
+MT-59,Tarxien,164
+MT-60,Valletta,164
+MT-61,Xagħra,164
+MT-62,Xewkija,164
+MT-63,Xgħajra,164
+MT-64,Żabbar,164
+MT-65,Żebbuġ Gozo,164
+MT-66,Żebbuġ Malta,164
+MT-67,Żejtun,164
+MT-68,Żurrieq,164
+MU-BL,Black River,165
+MU-FL,Flacq,165
+MU-GP,Grand Port,165
+MU-MO,Moka,165
+MU-PA,Pamplemousses,165
+MU-PL,Port Louis,165
+MU-PW,Plaines Wilhems,165
+MU-RR,Rivière du Rempart,165
+MU-SA,Savanne,165
+MU-AG,Agalega Islands,165
+MU-CC,Cargados Carajos Shoals,165
+MU-RO,Rodrigues Island,165
+MV-00,South Ari Atoll,166
+MV-02,North Ari Atoll,166
+MV-03,Faadhippolhu,166
+MV-04,Felidhu Atoll,166
+MV-05,Hahdhunmathi,166
+MV-07,North Thiladhunmathi,166
+MV-08,Kolhumadulu,166
+MV-12,Mulaku Atoll,166
+MV-13,North Maalhosmadulu,166
+MV-14,North Nilandhe Atoll,166
+MV-17,South Nilandhe Atoll,166
+MV-20,South Maalhosmadulu,166
+MV-23,South Thiladhunmathi,166
+MV-24,North Miladhunmadulu,166
+MV-25,South Miladhunmadulu,166
+MV-26,Male Atoll,166
+MV-27,North Huvadhu Atoll,166
+MV-28,South Huvadhu Atoll,166
+MV-29,Fuvammulah,166
+MV-01,Addu City,166
+MV-MLE,Male,166
+MW-C,Central Region,167
+MW-DE,Dedza,167
+MW-DO,Dowa,167
+MW-KS,Kasungu,167
+MW-LI,Lilongwe,167
+MW-MC,Mchinji,167
+MW-NI,Ntchisi,167
+MW-NK,Nkhotakota,167
+MW-NU,Ntcheu,167
+MW-SA,Salima,167
+MW-N,Northern Region,167
+MW-CT,Chitipa,167
+MW-KR,Karonga,167
+MW-LK,Likoma,167
+MW-MZ,Mzimba,167
+MW-NB,Nkhata Bay,167
+MW-RU,Rumphi,167
+MW-S,Southern Region,167
+MW-BA,Balaka,167
+MW-BL,Blantyre,167
+MW-CK,Chikwawa,167
+MW-CR,Chiradzulu,167
+MW-MG,Mangochi,167
+MW-MH,Machinga,167
+MW-MU,Mulanje,167
+MW-MW,Mwanza,167
+MW-NE,Neno,167
+MW-NS,Nsanje,167
+MW-PH,Phalombe,167
+MW-TH,Thyolo,167
+MW-ZO,Zomba,167
+NA-CA,Zambezi,171
+NA-ER,Erongo,171
+NA-HA,Hardap,171
+NA-KA,Karas,171
+NA-KE,Kavango East,171
+NA-KH,Khomas,171
+NA-KU,Kunene,171
+NA-KW,Kavango West,171
+NA-OD,Otjozondjupa,171
+NA-OH,Omaheke,171
+NA-ON,Oshana,171
+NA-OS,Omusati,171
+NA-OT,Oshikoto,171
+NA-OW,Ohangwena,171
+NG-AB,Abia,175
+NG-AD,Adamawa,175
+NG-AK,Akwa Ibom,175
+NG-AN,Anambra,175
+NG-BA,Bauchi,175
+NG-BE,Benue,175
+NG-BO,Borno,175
+NG-BY,Bayelsa,175
+NG-CR,Cross River,175
+NG-DE,Delta,175
+NG-EB,Ebonyi,175
+NG-ED,Edo,175
+NG-EK,Ekiti,175
+NG-EN,Enugu,175
+NG-GO,Gombe,175
+NG-IM,Imo,175
+NG-JI,Jigawa,175
+NG-KD,Kaduna,175
+NG-KE,Kebbi,175
+NG-KN,Kano,175
+NG-KO,Kogi,175
+NG-KT,Katsina,175
+NG-KW,Kwara,175
+NG-LA,Lagos,175
+NG-NA,Nasarawa,175
+NG-NI,Niger,175
+NG-OG,Ogun,175
+NG-ON,Ondo,175
+NG-OS,Osun,175
+NG-OY,Oyo,175
+NG-PL,Plateau,175
+NG-RI,Rivers,175
+NG-SO,Sokoto,175
+NG-TA,Taraba,175
+NG-YO,Yobe,175
+NG-ZA,Zamfara,175
+NG-FC,Abuja Federal Capital Territory,175
+NP-P1,Koshi,180
+NP-P2,Madhesh,180
+NP-P3,Bagmati,180
+NP-P4,Gandaki,180
+NP-P5,Lumbini,180
+NP-P6,Karnali,180
+NP-P7,Sudurpashchim,180
+NR-01,Aiwo,182
+NR-02,Anabar,182
+NR-03,Anetan,182
+NR-04,Anibare,182
+NR-05,Baitsi,182
+NR-06,Boe,182
+NR-07,Buada,182
+NR-08,Denigomodu,182
+NR-09,Ewa,182
+NR-10,Ijuw,182
+NR-11,Meneng,182
+NR-12,Nibok,182
+NR-13,Uaboe,182
+NR-14,Yaren,182
+NZ-AUK,Auckland,185
+NZ-BOP,Bay of Plenty,185
+NZ-CAN,Canterbury,185
+NZ-GIS,Gisborne,185
+NZ-HKB,Hawke's Bay,185
+NZ-MBH,Marlborough,185
+NZ-MWT,Manawatū-Whanganui,185
+NZ-NSN,Nelson,185
+NZ-NTL,Northland,185
+NZ-OTA,Otago,185
+NZ-STL,Southland,185
+NZ-TAS,Tasman,185
+NZ-TKI,Taranaki,185
+NZ-WGN,Greater Wellington,185
+NZ-WKO,Waikato,185
+NZ-WTC,West Coast,185
+NZ-CIT,Chatham Islands Territory,185
+PG-NCD,National Capital District (Port Moresby),191
+PG-CPK,Chimbu,191
+PG-CPM,Central,191
+PG-EBR,East New Britain,191
+PG-EHG,Eastern Highlands,191
+PG-EPW,Enga,191
+PG-ESW,East Sepik,191
+PG-GPK,Gulf,191
+PG-HLA,Hela,191
+PG-JWK,Jiwaka,191
+PG-MBA,Milne Bay,191
+PG-MPL,Morobe,191
+PG-MPM,Madang,191
+PG-MRL,Manus,191
+PG-NIK,New Ireland,191
+PG-NPP,Northern,191
+PG-SAN,West Sepik,191
+PG-SHM,Southern Highlands,191
+PG-WBK,West New Britain,191
+PG-WHM,Western Highlands,191
+PG-WPD,Western,191
+PG-NSB,Bougainville,191
+PH-00,National Capital Region,192
+PH-01,Ilocos (Region I),192
+PH-ILN,Ilocos Norte,192
+PH-ILS,Ilocos Sur,192
+PH-LUN,La Union,192
+PH-PAN,Pangasinan,192
+PH-02,Cagayan Valley (Region II),192
+PH-BTN,Batanes,192
+PH-CAG,Cagayan,192
+PH-ISA,Isabela,192
+PH-NUV,Nueva Vizcaya,192
+PH-QUI,Quirino,192
+PH-03,Central Luzon (Region III),192
+PH-AUR,Aurora,192
+PH-BAN,Bataan,192
+PH-BUL,Bulacan,192
+PH-NUE,Nueva Ecija,192
+PH-PAM,Pampanga,192
+PH-TAR,Tarlac,192
+PH-ZMB,Zambales,192
+PH-05,Bicol (Region V),192
+PH-ALB,Albay,192
+PH-CAN,Camarines Norte,192
+PH-CAS,Camarines Sur,192
+PH-CAT,Catanduanes,192
+PH-MAS,Masbate,192
+PH-SOR,Sorsogon,192
+PH-06,Western Visayas (Region VI),192
+PH-AKL,Aklan,192
+PH-ANT,Antique,192
+PH-CAP,Capiz,192
+PH-GUI,Guimaras,192
+PH-ILI,Iloilo,192
+PH-NEC,Negros Occidental,192
+PH-07,Central Visayas (Region VII),192
+PH-BOH,Bohol,192
+PH-CEB,Cebu,192
+PH-NER,Negros Oriental,192
+PH-SIG,Siquijor,192
+PH-08,Eastern Visayas (Region VIII),192
+PH-BIL,Biliran,192
+PH-EAS,Eastern Samar,192
+PH-LEY,Leyte,192
+PH-NSA,Northern Samar,192
+PH-SLE,Southern Leyte,192
+PH-WSA,Samar,192
+PH-09,Zamboanga Peninsula (Region IX),192
+PH-BAS,Basilan,192
+PH-ZAN,Zamboanga del Norte,192
+PH-ZAS,Zamboanga del Sur,192
+PH-ZSI,Zamboanga Sibugay,192
+PH-10,Northern Mindanao (Region X),192
+PH-BUK,Bukidnon,192
+PH-CAM,Camiguin,192
+PH-MSC,Misamis Occidental,192
+PH-MSR,Misamis Oriental,192
+PH-11,Davao (Region XI),192
+PH-COM,Davao de Oro,192
+PH-DAO,Davao Oriental,192
+PH-DAS,Davao del Sur,192
+PH-DAV,Davao del Norte,192
+PH-DVO,Davao Occidental,192
+PH-SAR,Sarangani,192
+PH-SCO,South Cotabato,192
+PH-12,Soccsksargen (Region XII),192
+PH-LAN,Lanao del Norte,192
+PH-NCO,Cotabato,192
+PH-SUK,Sultan Kudarat,192
+PH-13,Caraga (Region XIII),192
+PH-AGN,Agusan del Norte,192
+PH-AGS,Agusan del Sur,192
+PH-DIN,Dinagat Islands,192
+PH-SUN,Surigao del Norte,192
+PH-SUR,Surigao del Sur,192
+PH-14,Autonomous Region in Muslim Mindanao (ARMM),192
+PH-LAS,Lanao del Sur,192
+PH-MGN,Maguindanao del Norte,192
+PH-MGS,Maguindanao del Sur,192
+PH-SLU,Sulu,192
+PH-TAW,Tawi-Tawi,192
+PH-15,Cordillera Administrative Region (CAR),192
+PH-ABR,Abra,192
+PH-APA,Apayao,192
+PH-BEN,Benguet,192
+PH-IFU,Ifugao,192
+PH-KAL,Kalinga,192
+PH-MOU,Mountain Province,192
+PH-40,Calabarzon (Region IV-A),192
+PH-BTG,Batangas,192
+PH-CAV,Cavite,192
+PH-LAG,Laguna,192
+PH-QUE,Quezon,192
+PH-RIZ,Rizal,192
+PH-41,Mimaropa (Region IV-B),192
+PH-MAD,Marinduque,192
+PH-MDC,Mindoro Occidental,192
+PH-MDR,Mindoro Oriental,192
+PH-PLW,Palawan,192
+PH-ROM,Romblon,192
+PK-GB,Gilgit-Baltistan,193
+PK-JK,Azad Jammu and Kashmir,193
+PK-IS,Islamabad,193
+PK-BA,Balochistan,193
+PK-KP,Khyber Pakhtunkhwa,193
+PK-PB,Punjab,193
+PK-SD,Sindh,193
+PS-BTH,Bethlehem,198
+PS-DEB,Deir El Balah,198
+PS-GZA,Gaza,198
+PS-HBN,Hebron,198
+PS-JEM,Jerusalem,198
+PS-JEN,Jenin,198
+PS-JRH,Jericho and Al Aghwar,198
+PS-KYS,Khan Yunis,198
+PS-NBS,Nablus,198
+PS-NGZ,North Gaza,198
+PS-QQA,Qalqilya,198
+PS-RBH,Ramallah,198
+PS-RFH,Rafah,198
+PS-SLT,Salfit,198
+PS-TBS,Tubas,198
+PS-TKM,Tulkarm,198
+PW-002,Aimeliik,201
+PW-004,Airai,201
+PW-010,Angaur,201
+PW-050,Hatohobei,201
+PW-100,Kayangel,201
+PW-150,Koror,201
+PW-212,Melekeok,201
+PW-214,Ngaraard,201
+PW-218,Ngarchelong,201
+PW-222,Ngardmau,201
+PW-224,Ngatpang,201
+PW-226,Ngchesar,201
+PW-227,Ngeremlengui,201
+PW-228,Ngiwal,201
+PW-350,Peleliu,201
+PW-370,Sonsorol,201
+RW-01,City of Kigali,210
+RW-02,Eastern,210
+RW-03,Northern,210
+RW-04,Western,210
+RW-05,Southern,210
+SB-CE,Central,212
+SB-CH,Choiseul,212
+SB-GU,Guadalcanal,212
+SB-IS,Isabel,212
+SB-MK,Makira-Ulawa,212
+SB-ML,Malaita,212
+SB-RB,Rennell and Bellona,212
+SB-TE,Temotu,212
+SB-WE,Western,212
+SB-CT,Capital Territory (Honiara),212
+SC-01,Anse aux Pins,213
+SC-02,Anse Boileau,213
+SC-03,Anse Etoile,213
+SC-04,Au Cap,213
+SC-05,Anse Royale,213
+SC-06,Baie Lazare,213
+SC-07,Baie Sainte Anne,213
+SC-08,Beau Vallon,213
+SC-09,Bel Air,213
+SC-10,Bel Ombre,213
+SC-11,Cascade,213
+SC-12,Glacis,213
+SC-13,Grand Anse Mahe,213
+SC-14,Grand Anse Praslin,213
+SC-15,La Digue,213
+SC-16,English River,213
+SC-17,Mont Buxton,213
+SC-18,Mont Fleuri,213
+SC-19,Plaisance,213
+SC-20,Pointe Larue,213
+SC-21,Port Glaud,213
+SC-22,Saint Louis,213
+SC-23,Takamaka,213
+SC-24,Les Mamelles,213
+SC-25,Roche Caiman,213
+SC-26,Ile Perseverance I,213
+SC-27,Ile Perseverance II,213
+SD-DC,Central Darfur,214
+SD-DE,East Darfur,214
+SD-DN,North Darfur,214
+SD-DS,South Darfur,214
+SD-DW,West Darfur,214
+SD-GD,Gedaref,214
+SD-GK,West Kordofan,214
+SD-GZ,Gezira,214
+SD-KA,Kassala,214
+SD-KH,Khartoum,214
+SD-KN,North Kordofan,214
+SD-KS,South Kordofan,214
+SD-NB,Blue Nile,214
+SD-NO,Northern,214
+SD-NR,River Nile,214
+SD-NW,White Nile,214
+SD-RS,Red Sea,214
+SD-SI,Sennar,214
+SG-01,Central Singapore,216
+SG-02,North East,216
+SG-03,North West,216
+SG-04,South East,216
+SG-05,South West,216
+SH-AC,Ascension,217
+SH-HL,Saint Helena,217
+SH-TA,Tristan da Cunha,217
+SL-W,Western Area (Freetown),221
+SL-E,Eastern,221
+SL-N,Northern,221
+SL-NW,North Western,221
+SL-S,Southern,221
+SS-BN,Northern Bahr el Ghazal,226
+SS-BW,Western Bahr el Ghazal,226
+SS-EC,Central Equatoria,226
+SS-EE,Eastern Equatoria,226
+SS-EW,Western Equatoria,226
+SS-JG,Jonglei,226
+SS-LK,Lakes,226
+SS-NU,Upper Nile,226
+SS-UY,Unity,226
+SS-WR,Warrap,226
+SZ-HH,Hhohho,232
+SZ-LU,Lubombo,232
+SZ-MA,Manzini,232
+SZ-SH,Shiselweni,232
+TO-01,'Eua,243
+TO-02,Ha'apai,243
+TO-03,Niuas,243
+TO-04,Tongatapu,243
+TO-05,Vava'u,243
+TT-ARI,Arima,246
+TT-CHA,Chaguanas,246
+TT-PTF,Point Fortin,246
+TT-CTT,Couva-Tabaquite-Talparo,246
+TT-DMN,Diego Martin,246
+TT-MRC,Mayaro-Rio Claro,246
+TT-PED,Penal-Debe,246
+TT-PRT,Princes Town,246
+TT-SGE,Sangre Grande,246
+TT-SIP,Siparia,246
+TT-SJL,San Juan-Laventille,246
+TT-TUP,Tunapuna-Piarco,246
+TT-TOB,Tobago,246
+TT-POS,Port of Spain,246
+TT-SFO,San Fernando,246
+TV-NIT,Niutao,247
+TV-NKF,Nukufetau,247
+TV-NKL,Nukulaelae,247
+TV-NMA,Nanumea,247
+TV-NMG,Nanumaga,247
+TV-NUI,Nui,247
+TV-VAI,Vaitupu,247
+TV-FUN,Funafuti,247
+TZ-06,Pemba North,249
+TZ-07,Zanzibar North,249
+TZ-10,Pemba South,249
+TZ-11,Zanzibar South,249
+TZ-15,Zanzibar West,249
+TZ-19,Coast,249
+TZ-31,Songwe,249
+UG-C,Central,251
+UG-101,Kalangala,251
+UG-103,Kiboga,251
+UG-104,Luwero,251
+UG-105,Masaka,251
+UG-106,Mpigi,251
+UG-107,Mubende,251
+UG-108,Mukono,251
+UG-109,Nakasongola,251
+UG-110,Rakai,251
+UG-111,Sembabule,251
+UG-112,Kayunga,251
+UG-113,Wakiso,251
+UG-114,Lyantonde,251
+UG-115,Mityana,251
+UG-116,Nakaseke,251
+UG-117,Buikwe,251
+UG-118,Bukomansibi,251
+UG-119,Butambala,251
+UG-120,Buvuma,251
+UG-121,Gomba,251
+UG-122,Kalungu,251
+UG-123,Kyankwanzi,251
+UG-124,Lwengo,251
+UG-125,Kyotera,251
+UG-126,Kasanda,251
+UG-102,Kampala,251
+UG-E,Eastern,251
+UG-201,Bugiri,251
+UG-202,Busia,251
+UG-203,Iganga,251
+UG-204,Jinja,251
+UG-205,Kamuli,251
+UG-206,Kapchorwa,251
+UG-207,Katakwi,251
+UG-208,Kumi,251
+UG-209,Mbale,251
+UG-210,Pallisa,251
+UG-211,Soroti,251
+UG-212,Tororo,251
+UG-213,Kaberamaido,251
+UG-214,Mayuge,251
+UG-215,Sironko,251
+UG-216,Amuria,251
+UG-217,Budaka,251
+UG-218,Bududa,251
+UG-219,Bukedea,251
+UG-220,Bukwo,251
+UG-221,Butaleja,251
+UG-222,Kaliro,251
+UG-223,Manafwa,251
+UG-224,Namutumba,251
+UG-225,Bulambuli,251
+UG-226,Buyende,251
+UG-227,Kibuku,251
+UG-228,Kween,251
+UG-229,Luuka,251
+UG-230,Namayingo,251
+UG-231,Ngora,251
+UG-232,Serere,251
+UG-233,Butebo,251
+UG-234,Namisindwa,251
+UG-235,Bugweri,251
+UG-236,Kapelebyong,251
+UG-237,Kalaki,251
+UG-N,Northern,251
+UG-301,Adjumani,251
+UG-302,Apac,251
+UG-303,Arua,251
+UG-304,Gulu,251
+UG-305,Kitgum,251
+UG-306,Kotido,251
+UG-307,Lira,251
+UG-308,Moroto,251
+UG-309,Moyo,251
+UG-310,Nebbi,251
+UG-311,Nakapiripirit,251
+UG-312,Pader,251
+UG-313,Yumbe,251
+UG-314,Abim,251
+UG-315,Amolatar,251
+UG-316,Amuru,251
+UG-317,Dokolo,251
+UG-318,Kaabong,251
+UG-319,Koboko,251
+UG-320,Maracha,251
+UG-321,Oyam,251
+UG-322,Agago,251
+UG-323,Alebtong,251
+UG-324,Amudat,251
+UG-325,Kole,251
+UG-326,Lamwo,251
+UG-327,Napak,251
+UG-328,Nwoya,251
+UG-329,Otuke,251
+UG-330,Zombo,251
+UG-331,Omoro,251
+UG-332,Pakwach,251
+UG-333,Kwania,251
+UG-334,Nabilatuk,251
+UG-335,Karenga,251
+UG-336,Madi-Okollo,251
+UG-337,Obongi,251
+UG-W,Western,251
+UG-401,Bundibugyo,251
+UG-402,Bushenyi,251
+UG-403,Hoima,251
+UG-404,Kabale,251
+UG-405,Kabarole,251
+UG-406,Kasese,251
+UG-407,Kibaale,251
+UG-408,Kisoro,251
+UG-409,Masindi,251
+UG-410,Mbarara,251
+UG-411,Ntungamo,251
+UG-412,Rukungiri,251
+UG-413,Kamwenge,251
+UG-414,Kanungu,251
+UG-415,Kyenjojo,251
+UG-416,Buliisa,251
+UG-417,Ibanda,251
+UG-418,Isingiro,251
+UG-419,Kiruhura,251
+UG-420,Buhweju,251
+UG-421,Kiryandongo,251
+UG-422,Kyegegwa,251
+UG-423,Mitooma,251
+UG-424,Ntoroko,251
+UG-425,Rubirizi,251
+UG-426,Sheema,251
+UG-427,Kagadi,251
+UG-428,Kakumiro,251
+UG-429,Rubanda,251
+UG-430,Bunyangabu,251
+UG-431,Rukiga,251
+UG-432,Kikuube,251
+UG-433,Kazo,251
+UG-434,Kitagwenda,251
+UG-435,Rwampara,251
+UM-67,Johnston Atoll,252
+UM-71,Midway Islands,252
+UM-76,Navassa Island,252
+UM-79,Wake Island,252
+UM-81,Baker Island,252
+UM-84,Howland Island,252
+UM-86,Jarvis Island,252
+UM-89,Kingman Reef,252
+UM-95,Palmyra Atoll,252
+US-DC,District of Columbia,253
+US-AS,American Samoa (see also separate country code entry under AS),253
+US-GU,Guam (see also separate country code entry under GU),253
+US-MP,Northern Mariana Islands (see also separate country code entry under MP),253
+US-PR,Puerto Rico (see also separate country code entry under PR),253
+US-UM,United States Minor Outlying Islands (see also separate country code entry under UM),253
+US-VI,"Virgin Islands, U.S. (see also separate country code entry under VI)",253
+US-AK,Alaska,253
+US-AL,Alabama,253
+US-AR,Arkansas,253
+US-AZ,Arizona,253
+US-CA,California,253
+US-CO,Colorado,253
+US-CT,Connecticut,253
+US-DE,Delaware,253
+US-FL,Florida,253
+US-GA,Georgia,253
+US-HI,Hawaii,253
+US-IA,Iowa,253
+US-ID,Idaho,253
+US-IL,Illinois,253
+US-IN,Indiana,253
+US-KS,Kansas,253
+US-KY,Kentucky,253
+US-LA,Louisiana,253
+US-MA,Massachusetts,253
+US-MD,Maryland,253
+US-ME,Maine,253
+US-MI,Michigan,253
+US-MN,Minnesota,253
+US-MO,Missouri,253
+US-MS,Mississippi,253
+US-MT,Montana,253
+US-NC,North Carolina,253
+US-ND,North Dakota,253
+US-NE,Nebraska,253
+US-NH,New Hampshire,253
+US-NJ,New Jersey,253
+US-NM,New Mexico,253
+US-NV,Nevada,253
+US-NY,New York,253
+US-OH,Ohio,253
+US-OK,Oklahoma,253
+US-OR,Oregon,253
+US-PA,Pennsylvania,253
+US-RI,Rhode Island,253
+US-SC,South Carolina,253
+US-SD,South Dakota,253
+US-TN,Tennessee,253
+US-TX,Texas,253
+US-UT,Utah,253
+US-VA,Virginia,253
+US-VT,Vermont,253
+US-WA,Washington,253
+US-WI,Wisconsin,253
+US-WV,West Virginia,253
+US-WY,Wyoming,253
+VC-01,Charlotte,257
+VC-02,Saint Andrew,257
+VC-03,Saint David,257
+VC-04,Saint George,257
+VC-05,Saint Patrick,257
+VC-06,Grenadines,257
+VU-MAP,Malampa,263
+VU-PAM,Pénama,263
+VU-SAM,Sanma,263
+VU-SEE,Shéfa,263
+VU-TAE,Taféa,263
+VU-TOB,Torba,263
+WS-AA,A'ana,266
+WS-AL,Aiga-i-le-Tai,266
+WS-AT,Atua,266
+WS-FA,Fa'asaleleaga,266
+WS-GE,Gaga'emauga,266
+WS-GI,Gagaifomauga,266
+WS-PA,Palauli,266
+WS-SA,Satupa'itea,266
+WS-TU,Tuamasaga,266
+WS-VF,Va'a-o-Fonoti,266
+WS-VS,Vaisigano,266
+ZA-EC,Eastern Cape,271
+ZA-FS,Free State,271
+ZA-GP,Gauteng,271
+ZA-KZN,Kwazulu-Natal,271
+ZA-LP,Limpopo,271
+ZA-MP,Mpumalanga,271
+ZA-NC,Northern Cape,271
+ZA-NW,North-West,271
+ZA-WC,Western Cape,271
+ZM-01,Western,272
+ZM-02,Central,272
+ZM-03,Eastern,272
+ZM-04,Luapula,272
+ZM-05,Northern,272
+ZM-06,North-Western,272
+ZM-07,Southern,272
+ZM-08,Copperbelt,272
+ZM-09,Lusaka,272
+ZM-10,Muchinga,272
+ZW-BU,Bulawayo,274
+ZW-HA,Harare,274
+ZW-MA,Manicaland,274
+ZW-MC,Mashonaland Central,274
+ZW-ME,Mashonaland East,274
+ZW-MI,Midlands,274
+ZW-MN,Matabeleland North,274
+ZW-MS,Matabeleland South,274
+ZW-MV,Masvingo,274
+ZW-MW,Mashonaland West,274
