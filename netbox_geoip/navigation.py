@@ -1,5 +1,4 @@
 from django.utils.translation import gettext_lazy as _
-from netbox.choices import ButtonColorChoices
 from netbox.plugins import PluginMenuButton, PluginMenuItem
 from netbox.plugins import PluginMenu
 from netbox.plugins.utils import get_plugin_config
@@ -72,7 +71,7 @@ if top_level_menu:
                 (
                     country,
                     region,
-                 )
+                )
             ),
         )
     )

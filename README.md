@@ -1,4 +1,8 @@
 # NetBox GeoIP Plugin
+<div>
+  <a href="https://github.com/jcl06/netbox_geoip/releases"><img src="https://img.shields.io/github/v/release/jcl06/netbox_geoip" alt="Latest release" /></a>
+  <a href="https://github.com/jcl06/netbox_geoip/blob/main/LICENSE"><img src="https://img.shields.io/badge/license-Apache_2.0-blue.svg" alt="License" /></a>
+</div>
 
 ## Overview
 The **NetBox GeoIP Plugin** extends NetBox to store and manage IP Geolocation data, including country, region, subdivision codes, country codes, city, and IP/Network address mappings.
@@ -8,11 +12,11 @@ The **NetBox GeoIP Plugin** extends NetBox to store and manage IP Geolocation da
 - Link `subnet` to NetBox's IPAddress and Prefix.
 - Use dynamic filtering for `country`, and `region` selections.
 - Provide a database of countries and regions for accurate selection.
-- Integrate seamlessly with NetBox custom fields for IP Addresses.
+- Integrate seamlessly with NetBox Prefix/IPAddress forms (no NetBox custom fields needed).
 
 
 ## Requirements
-* NetBox 4.0.5 or higher
+* NetBox 4.1.3 or higher
 * Python 3.10 or higher
 
 

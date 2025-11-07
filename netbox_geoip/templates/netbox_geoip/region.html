@@ -17,7 +17,7 @@
         </tr>
         <tr>
           <th scope="row">{% trans "Country" %}</th>
-          <td>{{ object.country }}</td>
+          <td>{{ object.country|linkify }}</td>
         </tr>
         <tr>
           <th scope="row">{% trans "Country Code" %}</th>
@@ -34,7 +34,6 @@
 	</div>
 	<div class="col col-md-6">
     {% include 'inc/panels/related_objects.html' %}
-    {% include 'inc/panels/custom_fields.html' %}
     {% plugin_right_page object %}
   </div>
 </div>

@@ -1,7 +1,8 @@
 import django_filters
 import netaddr
+from django.core.exceptions import ValidationError
 from django.utils.translation import gettext_lazy as _
-from netbox.filtersets import NetBoxModelFilterSet
+from netbox.filtersets import NetBoxModelFilterSet, BaseFilterSet
 
 from netaddr.core import AddrFormatError
 from .models import *
@@ -23,6 +24,10 @@ class CountryFilterSet(NetBoxModelFilterSet):
 
 
 class RegionFilterSet(NetBoxModelFilterSet):
+    country_id = django_filters.ModelMultipleChoiceFilter(
+        queryset=Country.objects.all(),
+        label=_('Country (ID)'),
+    )
     country = django_filters.ModelMultipleChoiceFilter(
         queryset=Country.objects.all(),
         field_name="country",
@@ -36,7 +41,7 @@ class RegionFilterSet(NetBoxModelFilterSet):
 
     class Meta:
         model = Region
-        fields = ('id', 'name', 'country', 'subdivision_code')
+        fields = ('id', 'name', 'region', 'country', 'country_id', 'subdivision_code')
 
     def search(self, queryset, name, value):
         if not value.strip():
@@ -48,7 +53,7 @@ class RegionFilterSet(NetBoxModelFilterSet):
         )
 
 
-class GeoIPFilterSet(NetBoxModelFilterSet):
+class GeoIPFilterSet(BaseFilterSet):
     region = django_filters.ModelMultipleChoiceFilter(
         queryset=Region.objects.all(),
         method="filter_region",

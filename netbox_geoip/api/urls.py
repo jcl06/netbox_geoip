@@ -6,6 +6,4 @@ router.register("countries", CountryViewSet)
 router.register("regions", RegionViewSet)
 router.register("", GeoIPViewSet)
 
-#router.register("", GeoIPViewSet, basename='geoip-list')
-
 urlpatterns = router.urls

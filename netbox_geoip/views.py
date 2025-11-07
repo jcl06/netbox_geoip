@@ -1,10 +1,9 @@
-from utilities.views import register_model_view
+from utilities.views import register_model_view, GetRelatedModelsMixin
 from .models import Country, Region, GeoIP
 from . import forms, filtersets
 
 from netbox.views import generic
 from . import tables
-from ipam.views import PrefixEditView, PrefixBulkEditView, IPAddressEditView, IPAddressBulkEditView
 
 
 #
@@ -18,17 +17,12 @@ class CountryListView(generic.ObjectListView):
 
 
 @register_model_view(Country)
-class CountryView(generic.ObjectView):
+class CountryView(GetRelatedModelsMixin, generic.ObjectView):
     queryset = Country.objects.all()
-
+    
     def get_extra_context(self, request, instance):
-        related_models = (
-            (Region.objects.restrict(request.user, 'view').filter(country=instance), 'country'),
-            (GeoIP.objects.restrict(request.user, 'view').filter(country=instance), 'country'),
-        )
-
         return {
-            'related_models': related_models,
+            "related_models": self.get_related_models(request, instance)
         }
 
 
@@ -71,17 +65,24 @@ class RegionListView(generic.ObjectListView):
 
 
 @register_model_view(Region)
-class RegionView(generic.ObjectView):
+class RegionView(GetRelatedModelsMixin, generic.ObjectView):
     queryset = Region.objects.all()
 
     def get_extra_context(self, request, instance):
-        related_models = (
-            (GeoIP.objects.restrict(request.user, 'view').filter(region=str(instance.name)), 'region'),
-        )
-
+        geoip = GeoIP.objects.restrict(request.user, 'view').filter(region=str(instance.name), country=instance.country)
+        
         return {
-            'related_models': related_models,
+            "related_models": self.get_related_models(
+                request,
+                instance,
+                extra=(
+                    (
+                        geoip, 'region'
+                    ),
+                )
+            )
         }
+
 
 
 @register_model_view(Region, 'edit')
@@ -110,33 +111,6 @@ class RegionBulkEditView(generic.BulkEditView):
 class RegionBulkDeleteView(generic.BulkDeleteView):
     queryset = Region.objects.all()
     table = tables.RegionTable
-
-
-#
-# To override Prefix/IPAddress Forms
-#
-class CustomPrefixAddView(PrefixEditView):
-    form = forms.CustomPrefixForm
-
-
-class CustomPrefixBulkEditView(PrefixBulkEditView):
-    form = forms.CustomBulkPrefixForm
-
-
-class CustomPrefixEditView(PrefixEditView):
-    form = forms.CustomPrefixForm
-
-
-class CustomIPAddressAddView(IPAddressEditView):
-    form = forms.CustomIPAddressForm
-
-
-class CustomIPAddressBulkEditView(IPAddressBulkEditView):
-    form = forms.CustomBulkIPAddressForm
-
-
-class CustomIPAddressEditView(IPAddressEditView):
-    form = forms.CustomIPAddressForm
 
 
 #

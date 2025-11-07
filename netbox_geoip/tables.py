@@ -14,7 +14,7 @@ class CountryTable(NetBoxTable):
     class Meta(NetBoxTable.Meta):
         model = Country
         fields = (
-            'pk', 'id', 'name', 'country_code', 'created', 'last_updated',
+            'pk', 'id', 'name', 'country_code', 'created', 'last_updated', 'tags'
         )
         default_columns = (
             'pk', 'name', 'country_code',
@@ -31,7 +31,7 @@ class RegionTable(NetBoxTable):
     class Meta(NetBoxTable.Meta):
         model = Region
         fields = (
-            'pk', 'id', 'name', 'country', 'subdivision_code', 'created', 'last_updated',
+            'pk', 'id', 'name', 'country', 'subdivision_code', 'created', 'last_updated', 'tags'
         )
         default_columns = (
             'pk', 'name', 'country', 'subdivision_code',

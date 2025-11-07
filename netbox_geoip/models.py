@@ -6,7 +6,7 @@ from django.contrib.contenttypes.fields import GenericForeignKey
 from django.contrib.contenttypes.models import ContentType
 from django.db.models import Q
 from utilities.choices import ChoiceSet
-from django.core.exceptions import ValidationError
+from utilities.querysets import RestrictedQuerySet
 from django.utils.translation import gettext_lazy as _
 
 
@@ -47,8 +47,11 @@ class Country(NetBoxModel):
     tags = models.ManyToManyField(
         'extras.Tag',
         blank=True,
-        related_name='netbox_geoip_country',  # Change the default reverse accessor
+        related_name='netbox_geoip_country'
     )
+
+    class Meta:
+        ordering = ['name']
 
     def __str__(self):
         return self.name
@@ -64,11 +67,12 @@ class Region(NetBoxModel):
     tags = models.ManyToManyField(
         'extras.Tag',
         blank=True,
-        related_name='netbox_geoip_region',  # Change the default reverse accessor
+        related_name='netbox_geoip_region'
     )
 
     class Meta:
         unique_together = ('country', 'name')
+        ordering = ['country', 'name']
 
     def __str__(self):
         return self.name
@@ -77,7 +81,7 @@ class Region(NetBoxModel):
         return reverse('plugins:netbox_geoip:region', args=[self.pk])
 
 
-class GeoIP(NetBoxModel):
+class GeoIP(models.Model):
     subnet = IPNetworkField(
         verbose_name=_("IP/Network Address")
     )
@@ -95,6 +99,7 @@ class GeoIP(NetBoxModel):
     country = models.ForeignKey(
         to='netbox_geoip.Country',
         on_delete=models.PROTECT,
+        related_name="netbox_geoip_geoip",
         null=True,
         blank=True
     )
@@ -123,30 +128,29 @@ class GeoIP(NetBoxModel):
 
     object = GenericForeignKey('object_type', 'object_id')
 
+    objects = RestrictedQuerySet.as_manager()
+
     class Meta:
-        verbose_name = "NETBOX GEOIP"
+        verbose_name = "GeoIP"
         ordering = ['subnet', 'pk']
 
     def __str__(self):
         return str(self.subnet)
 
     def save(self, *args, **kwargs):
+        parent = self.object 
         self.type = self.object_type.model
-        self.status = self.object.status
-        self.city = self.object.custom_field_data['city']
-        self.country = Country.objects.filter(id=self.object.custom_field_data['country']).first()
-        region = Region.objects.filter(id=self.object.custom_field_data['region']).first()
-        if region.name == 'Not Applicable':
-            self.region = ''
-            self.subdivision_code = ''
-        else:
-            self.region = region.name
-            self.subdivision_code = region.subdivision_code
-        if self.object_type.model == "ipaddress":
-            self.subnet = f'{self.object.address.ip}/32'
-        else:
-            self.subnet = str(self.object.prefix)
+
+        if parent and hasattr(parent, "status"):
+            self.status = parent.status
+
+        if self.object_type.model == "ipaddress" and parent and getattr(parent, "address", None):
+            self.subnet = f"{parent.address.ip}/32"
+        elif parent and hasattr(parent, "prefix"):
+            self.subnet = str(parent.prefix)
+
         super().save(*args, **kwargs)
+
 
     def get_absolute_url(self):
         return self.object.get_absolute_url()
@@ -156,9 +160,5 @@ class GeoIP(NetBoxModel):
 
     @property
     def country_code(self):
-        country_id = self.object.custom_field_data['country']
-        obj = None
-        if country_id:
-            obj = Country.objects.filter(id=country_id).first().country_code
-        return obj
+        return self.country.country_code if self.country else None
 
